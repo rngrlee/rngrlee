@@ -13,7 +13,7 @@ Feel free to reach out if you would like to have a coffee chat!
 
 
 ---
-🏫 I recently graduated from the [University of British Columbia](https://www.ubc.ca/) with a specialization in **Finance**.
+🏫 I recently graduated from the [University of British Columbia](https://www.ubc.ca/) with a degree in **Finance**.
 
 ---
 ⚡ **Fun Facts About Me**
