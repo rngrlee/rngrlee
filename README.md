@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ranger!
 
 I'm currently searching for new grad Software Engineer positions starting in 2024, open to relocation.
-Feel free to reach out if you would like to have a coffee chat!
+<br> Feel free to reach out if you would like to have a coffee chat!
 
 **My Languages and Tools**
 
