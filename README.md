@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there 👋 I'm Ranger!
 
-<!--
-**rngrlee/rngrlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently searching for new grad Software Engineer positions starting in 2024, open to relocation.
+Feel free to reach out if you would like to have a coffee chat!
 
-Here are some ideas to get you started:
+**My Languages and Tools**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
+
+---
+🏫 I recently graduated from the [University of British Columbia](https://www.ubc.ca/) with a specialization in **Finance**.
+
+---
+⚡ **Fun Facts About Me**
+- I really enjoy strength training: I'm currently preparing for a powerlifting competition next year in Vancouver! 🏋️
+- I play video games such as League of Legends, Cyberpunk 2077, and CS:GO. 🎮
+- I'm a fan of thinking games: you can catch me playing blitz chess everyday. ♟️
+- I play a variety of sports such as golf, spikeball, and Dagestani basketball. ⛳
+---
+
+😄 **Check out** my [personal portfolio](https://rngrlee.github.io/personal-website/).
+
+💬 **Reach out to me**:
+- [LinkedIn](https://www.linkedin.com/in/ranger-lee/)
+- [Email](mailto:mrrangerlee@gmail.com@gmail.com)
